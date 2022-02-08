@@ -1,3 +1,3 @@
 # Basic-Programming-Java
 ## Array
--Multidimentional array
+- Multidimentional array
